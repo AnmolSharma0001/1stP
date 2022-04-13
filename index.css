@@ -9,10 +9,14 @@ h1{
     margin-top: 0px;
 }
 .topcont{
-    background-color: red;
+    background-color: blue;
     height: 40px;
 }
 .bottomcont{
     background-color: red;
     height: 40px;
+}
+.cloud-img{
+    height: 200px;
+    width: 200px;
 }
