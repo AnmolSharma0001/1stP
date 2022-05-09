@@ -53,10 +53,13 @@ h3{
     
 }
 .btn{
-    background-color:aquamarine;
-    font-size: 30px;
+    background-color:rgb(14, 233, 160);
+    font-size: 25px;
     height: 60px;
     width: 300px;
+    border: 1px white;
+    border-radius: 5px;
+    padding: 15px 20px 15px 20px;
 }
 .bottom-container{
     padding-top: 20px;
@@ -91,4 +94,12 @@ h3{
 .end{
     font-family:'Cedarville Cursive', cursive;
     font-size: 30px;
+}
+a{
+    color:#0b6904;
+    margin: 10px 10px 10px 10px;
+    text-decoration: none;
+}
+a:hover{
+    color: #EAF6F6;
 }
